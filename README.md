@@ -1,7 +1,7 @@
 ![MasterHead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)
 <h1 align="center">Hi 👋, I'm Jeet Makadiya</h1>
 <h3 align="center">A passionate CSE student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/male-web-developer-coding-9501959">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetmakadiya9&label=Profile%20views&color=0e75b6&style=flat" alt="jeetmakadiya9" /> </p>
 
