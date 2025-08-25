@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdreamztechnology.com%2Fai-ml-development%2F&psig=AOvVaw0knfUWpxGk7IxcRGfENxi5&ust=1756210164376000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDgu_D2pY8DFQAAAAAdAAAAABAE)
+![MasterHead](https://dreamztechnology.com/wp-content/uploads/2024/07/AI-ML-Development-Dreamz-1024x578.webp)
 <h1 align="center">Hi 👋, I'm Jeet Makadiya</h1>
 <h3 align="center">A passionate AIML student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
